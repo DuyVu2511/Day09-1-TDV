@@ -1,0 +1,12 @@
+.container{
+    margin: 1rem 10%;
+    padding: .5rem 1rem;
+    border: 1px solid #ccc;
+}
+.btn{
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+    display: inline-block;
+    margin: .5rem 0;
+}
